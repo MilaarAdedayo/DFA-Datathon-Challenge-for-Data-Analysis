@@ -11,7 +11,7 @@ AgResources Inc. is poised for expansion and strategic investment in its farms. 
 To extract in-depth insights and recommendations that will shape the company's strategic plans for the coming years.
 
 ## Tools & Resources
-PowerBI was my tool of choice. I connected to my data via Snowflake
+PowerBI was my tool of choice. I connected to the data given via Snowflake
 
 Data Validation Process;
 The data had 13 tables provided, and a quick cleaning process was carried out on the data consisting of over 2 million rows.

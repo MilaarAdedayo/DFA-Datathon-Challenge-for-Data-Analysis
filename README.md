@@ -1,9 +1,9 @@
 # DFA-2023-Datathon-Challenge-for-Data-Analysis
 Data Fest Africa 2023 Datathon Challenge 20th Place Solution. <https://tinyurl.com/DFALeaderboard>
 
-Our 20th rank consisted of the cumulative scores from the datathon challenges. It was a three (3) member team, but we could not participate in the data engineer challenge because we didn't have a female team member.
+Our 20th rank consisted of the cumulative scores from the three (3) datathon challenges. It was a three (3) member team, but we could not participate in the data engineer challenge because we didn't have a female team member.
 
-Team Trail Blazers: This repository contains the data analysis project for the 2023 DataFest Africa Datathon organised by Data Community Africa on Diceytech, from 30th September to 1st October 2023 that I underwent. 
+Team Trail Blazers: This repository contains the data analysis project for the 2023 DataFest Africa Datathon organised by Data Community Africa on Diceytech, from 30th September to 1st October 2023 that I attempted. 
 <https://portfolio.diceytech.co.uk/project-opportunity/1694032685679x620868876154437600>
 
 AgResources Inc. is poised for expansion and strategic investment in its farms. The vast data collated over the years is a treasure trove to carve out the company's future direction. But decisions must be precise, deliberate, and data-driven.
